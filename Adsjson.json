@@ -36,7 +36,7 @@
 "min_time_before_gameplay_ads": "60",
 "min_deaths_before_ads": "2",
 
-"use_mediation": "false",
+"use_mediation": "true",
 
 "max_percentage": "70",
 "admob_percentage": "30",
