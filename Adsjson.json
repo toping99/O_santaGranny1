@@ -1,15 +1,15 @@
 {
       "max_count_ads": "15",
       
-      "our_ads1_activation":"true",
+      "our_ads1_activation":"false",
     "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/111.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
-    "our_ads2_activation":"true",
+    "our_ads2_activation":"false",
     "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/22.png",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
-    "our_ads3_activation":"true",
+    "our_ads3_activation":"false",
     "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/333.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
