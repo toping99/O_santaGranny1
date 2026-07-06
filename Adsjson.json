@@ -1,5 +1,5 @@
 {
-    "max_count_ads": "11",
+    "max_count_ads": "5",
 
     "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Elsa%20small%20inter%20AD.png",
@@ -38,14 +38,14 @@
 
 "use_mediation": "false",
 
-"max_percentage": "70",
-"admob_percentage": "30",
+"max_percentage": "0",
+"admob_percentage": "100",
 
 "applovin_activation": "true",
 "unity_activation": "false",
 "admob_activation": "true",
 
-"applovin_percentage": "50",
+"applovin_percentage": "0",
 "unity_percentage": "0",
-"admob_percentage_non_mediation": "50"
+"admob_percentage_non_mediation": "100"
 }
